@@ -249,10 +249,26 @@ doctype_js = {"Job Offer" : "public/js/job_offer.js"}
 
 
 fixtures = [
+    
     {
         "dt": "Custom Field",
         "filters": [
             ["module", "=", "Ksa Qiwa"]
         ]
+    },
+    {
+        "dt": "Workspace",
+        "filters": [
+            ["module", "=", "Ksa Qiwa"]
+        ]
+    },
+    {
+        "dt": "Property Setter",
+        "filters": [
+            ["module", "=", "Ksa Qiwa"]
+        ]
+    },
+    {
+        "dt": "Offer Term"
     }
 ]

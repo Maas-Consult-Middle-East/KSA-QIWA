@@ -1,0 +1,77 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"5mvGkTiuE5\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">QIWA</span>\",\"col\":12}},{\"id\":\"xK2vltNtGM\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"QIWA Contract\",\"col\":3}},{\"id\":\"ONpPMhXyRS\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Company\",\"col\":3}},{\"id\":\"5yRAn21V1y\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Job Opening\",\"col\":3}},{\"id\":\"rDSXhPpxK8\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Job Applicant\",\"col\":3}},{\"id\":\"5KRtSi1H1u\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Job Offer\",\"col\":3}},{\"id\":\"ohlKi7YoyN\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employee\",\"col\":3}}]",
+ "creation": "2026-08-27 12:22:05.673340",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "",
+ "idx": 0,
+ "indicator_color": "darkgrey",
+ "is_hidden": 0,
+ "label": "QIWA",
+ "links": [],
+ "modified": "2026-08-27 12:25:54.605867",
+ "modified_by": "Administrator",
+ "module": "Ksa Qiwa",
+ "name": "QIWA",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 32.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "QIWA Contract",
+   "link_to": "QIWA Contract",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Company",
+   "link_to": "Company",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Job Opening",
+   "link_to": "Job Opening",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Job Applicant",
+   "link_to": "Job Applicant",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Job Offer",
+   "link_to": "Job Offer",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Employee",
+   "link_to": "Employee",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "QIWA"
+}

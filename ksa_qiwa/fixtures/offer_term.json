@@ -1,0 +1,79 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Offer Term",
+  "modified": "2026-08-27 12:49:02.415464",
+  "name": "Working Hours Per Day",
+  "offer_term": "Working Hours Per Day"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Offer Term",
+  "modified": "2026-08-27 12:49:16.416817",
+  "name": "Working Days Per Week",
+  "offer_term": "Working Days Per Week"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Offer Term",
+  "modified": "2026-08-27 12:51:12.065828",
+  "name": "Contract Duration",
+  "offer_term": "Contract Duration"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Offer Term",
+  "modified": "2026-08-27 12:51:26.334948",
+  "name": "Contract Starting Date",
+  "offer_term": "Contract Starting Date"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Offer Term",
+  "modified": "2026-08-27 12:51:42.513343",
+  "name": "Contract Ending Date",
+  "offer_term": "Contract Ending Date"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Offer Term",
+  "modified": "2026-08-27 12:57:28.028609",
+  "name": "Notice Period",
+  "offer_term": "Notice Period"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Offer Term",
+  "modified": "2026-08-27 12:59:25.479984",
+  "name": "Termination Period",
+  "offer_term": "Termination Period"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Offer Term",
+  "modified": "2026-08-27 13:12:06.144195",
+  "name": "Basic Salary",
+  "offer_term": "Basic Salary"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Offer Term",
+  "modified": "2026-08-27 13:12:17.547093",
+  "name": "Salary Period",
+  "offer_term": "Salary Period"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Offer Term",
+  "modified": "2026-08-27 13:17:14.008812",
+  "name": "Paid Annual Leave in Days",
+  "offer_term": "Paid Annual Leave in Days"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Offer Term",
+  "modified": "2026-08-23 14:00:12.911328",
+  "name": "Job Description",
+  "offer_term": "Job Description"
+ }
+]
