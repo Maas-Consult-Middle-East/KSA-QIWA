@@ -13,7 +13,7 @@
  "is_hidden": 0,
  "label": "QIWA",
  "links": [],
- "modified": "2026-08-27 12:25:54.605867",
+ "modified": "2026-08-27 17:41:15.201171",
  "modified_by": "Administrator",
  "module": "Ksa Qiwa",
  "name": "QIWA",
@@ -25,13 +25,6 @@
  "roles": [],
  "sequence_id": 32.0,
  "shortcuts": [
-  {
-   "color": "Grey",
-   "doc_view": "List",
-   "label": "QIWA Contract",
-   "link_to": "QIWA Contract",
-   "type": "DocType"
-  },
   {
    "color": "Grey",
    "doc_view": "List",
